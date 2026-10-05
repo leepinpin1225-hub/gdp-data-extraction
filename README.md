@@ -15,7 +15,7 @@ Python, pandas, NumPy, Jupyter
 ## Files
 | File | Description |
 |---|---|
-| `gdp_course_version.ipynb` | Notebook with the full process |
+| `gdp_course_ver.ipynb` | Notebook with the full process |
 | `Largest_economies.csv` | Output: top 10 economies (GDP in billion USD) |
 
 ## Notes
